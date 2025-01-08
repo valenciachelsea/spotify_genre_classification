@@ -1,5 +1,3 @@
-In December of 2022, I completed a 10-week Data Science course offered by General Assembly. The purpose of the course was to apply Python packages to Data Science problems. The course required a final presentation, of the student's choosing. My project centered around classifying the genre of songs available on Spotify. 
-
 ## Problem
 Spotify has millions of songs on their platform. Manually assigning a musical genre to an individual song is not feasible. Song genres are not only used to categorize songs, but also create playlists and recommendations. Predicting the song genre presents an interesting classification problem. This project will review how modeling may be used to help predict the musical genre of a song. 
 
